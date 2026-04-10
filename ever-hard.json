@@ -86,9 +86,9 @@
         "info": "#7FBBB3",
         "info.background": "#384B55",
         "info.border": "#7FBBB366",
-        "hint": "#83C092",
-        "hint.background": "#3C4841",
-        "hint.border": "#83C09266",
+        "hint": "#6E7A80",
+        "hint.background": "#2E383C",
+        "hint.border": "#6E7A8066",
         "success": "#A7C080",
         "success.background": "#3C4841",
         "success.border": "#A7C08066",
@@ -258,7 +258,7 @@
             "font_weight": null
           },
           "hint": {
-            "color": "#83C092",
+            "color": "#6E7A80",
             "font_style": null,
             "font_weight": null
           },
