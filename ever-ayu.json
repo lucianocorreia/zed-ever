@@ -60,7 +60,7 @@
         "editor.foreground": "#CCCAC2",
         "editor.gutter.background": "#1C212C",
         "editor.subheader.background": "#212837",
-        "editor.active_line.background": "#2E383C",
+        "editor.active_line.background": "#222833",
         "editor.highlighted_line.background": null,
         "editor.line_number": "#707A8C",
         "editor.active_line_number": "#D9BE98",
