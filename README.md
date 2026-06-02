@@ -9,6 +9,7 @@ Um color scheme minimalista e elegante para o editor [Zed](https://zed.dev).
 ## 📋 Variações
 
 - **Ever Dark Hard** - Versão dark com contraste mais pronunciado
+- **Ever Ayu** - Clone inspirado no Ayu Mirage, com strings sem negrito
 
 ## 🎯 Características
 
@@ -19,12 +20,12 @@ Um color scheme minimalista e elegante para o editor [Zed](https://zed.dev).
 
 ## 🚀 Instalação
 
-1. Clone este repositório ou faça download do arquivo `ever-hard.json`
+1. Clone este repositório ou faça download do arquivo `ever-hard.json` ou `ever-ayu.json`
 2. Localize o diretório de temas do Zed:
    - **macOS/Linux**: `~/.config/zed/themes/`
    - **Windows**: `%APPDATA%\Zed\themes\`
-3. Copie o arquivo `ever-hard.json` para o diretório de temas
-4. Abra o Zed e, nas settings, selecione "Ever Dark Hard" como tema
+3. Copie o arquivo `ever-hard.json` ou `ever-ayu.json` para o diretório de temas
+4. Abra o Zed e, nas settings, selecione "Ever Dark Hard" ou "Ever Ayu" como tema
 
 ## 🎨 Paleta de Cores
 
