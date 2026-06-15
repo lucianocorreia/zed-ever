@@ -134,6 +134,18 @@
             "font_style": "italic",
             "font_weight": null
           },
+          "markup.heading": {
+            "background_color": null,
+            "color": "#D08770",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "title": {
+            "background_color": null,
+            "color": "#D08770",
+            "font_style": null,
+            "font_weight": 700
+          },
           "constant": {
             "color": "#EBCB8B",
             "font_style": null,
