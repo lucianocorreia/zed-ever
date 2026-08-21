@@ -176,6 +176,7 @@
           "function": { "color": "#88C0D0", "font_style": null, "font_weight": null },
           "function.builtin": { "color": "#88C0D0", "font_style": null, "font_weight": null },
           "function.method": { "color": "#88C0D0", "font_style": null, "font_weight": null },
+          "function.macro": { "color": "#B48EAD", "font_style": null, "font_weight": null },
           "function.special.definition": { "color": "#88C0D0", "font_style": null, "font_weight": null },
           "hint": { "color": "#969696", "font_style": null, "font_weight": null },
           "keyword": { "color": "#D08770", "font_style": null, "font_weight": null },
