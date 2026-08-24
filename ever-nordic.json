@@ -91,7 +91,7 @@
         "minimap.thumb.hover_background": "#646464B3",
         "minimap.thumb.active_background": "#646464B3",
         "minimap.thumb.border": "#353D4C",
-        "search.match_background": "#AD7A68B3",
+        "search.match_background": "#AD7A6855",
         "error": "#FF6B6B",
         "error.background": "#FF6B6B22",
         "error.border": "#FF6B6B66",
