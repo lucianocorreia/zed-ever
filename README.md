@@ -13,6 +13,7 @@ Um color scheme minimalista e elegante para o editor [Zed](https://zed.dev).
 - **Dark Ever Toggle** - Versão dark inspirada no tema VS Code "Dark Ever Toggle"
 - **Ever Nordic** - Versão inspirada no tema VS Code "Dark Nordic"
 - **Ever Nordic Hard** - Versão de maior contraste inspirada no "Dark Nordic Hard"
+- **Dark Nord** - Tema dark inspirado na paleta personalizada Corr3ia Dark Nord para Neovim
 
 ## 🎯 Características
 
@@ -23,12 +24,12 @@ Um color scheme minimalista e elegante para o editor [Zed](https://zed.dev).
 
 ## 🚀 Instalação
 
-1. Clone este repositório ou faça download do arquivo `ever-hard.json`, `ever-ayu.json`, `ever-toggle.json`, `ever-nordic.json` ou `ever-nordic-hard.json`
+1. Clone este repositório ou faça download do arquivo `ever-hard.json`, `ever-ayu.json`, `ever-toggle.json`, `ever-nordic.json`, `ever-nordic-hard.json` ou `dark-nord.json`
 2. Localize o diretório de temas do Zed:
    - **macOS/Linux**: `~/.config/zed/themes/`
    - **Windows**: `%APPDATA%\Zed\themes\`
-3. Copie o arquivo `ever-hard.json` ou `ever-ayu.json` para o diretório de temas
-4. Abra o Zed e, nas settings, selecione "Ever Dark Hard", "Ever Ayu", "Dark Ever Toggle", "Ever Nordic" ou "Ever Nordic Hard" como tema
+3. Copie o arquivo do tema desejado para o diretório de temas
+4. Abra o Zed e, nas settings, selecione "Ever Dark Hard", "Ever Ayu", "Dark Ever Toggle", "Ever Nordic", "Ever Nordic Hard" ou "Dark Nord" como tema
 
 ## 🎨 Paleta de Cores
 

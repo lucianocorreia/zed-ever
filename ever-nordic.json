@@ -269,7 +269,7 @@
             "font_weight": null
           },
           "function.macro": {
-            "color": "#B48EAD",
+            "color": "#C49AC2",
             "font_style": null,
             "font_weight": null
           },
@@ -334,7 +334,7 @@
             "font_weight": null
           },
           "operator": {
-            "color": "#B48EAD",
+            "color": "#AD7A68",
             "font_style": null,
             "font_weight": null
           },
@@ -439,7 +439,7 @@
             "font_weight": null
           },
           "type.builtin": {
-            "color": "#CBB27E",
+            "color": "#B48EAD",
             "font_style": null,
             "font_weight": null
           },
